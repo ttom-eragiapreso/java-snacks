@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65161014-e977-4ad0-b0bf-6c0757beb56b" name="Changes" comment="snack 3 finished">
-      <change afterPath="$PROJECT_DIR$/src/Snack4.java" afterDir="false" />
+    <list default="true" id="65161014-e977-4ad0-b0bf-6c0757beb56b" name="Changes" comment="aggiunto scan.close">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snack4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678369723173</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aggiunto scan.close">
+      <created>1678370222104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678370222104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -83,6 +89,7 @@
     <MESSAGE value="snack 1 finished" />
     <MESSAGE value="snack 2 finished" />
     <MESSAGE value="snack 3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="snack 3 finished" />
+    <MESSAGE value="aggiunto scan.close" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunto scan.close" />
   </component>
 </project>
