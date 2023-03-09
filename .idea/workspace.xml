@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65161014-e977-4ad0-b0bf-6c0757beb56b" name="Changes" comment="snack 4 using Random">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snack4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snack3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678372937055</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="snack 4 using Random">
+      <created>1678373201486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678373201486</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

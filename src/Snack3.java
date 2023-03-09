@@ -7,13 +7,14 @@ public class Snack3 {
 
         int[] numbers = {10,13,5,6,8,57,2,234,6,33};
         int sum = 0;
-        for (int number : numbers) {
-            if (number % 2 == 0) {
-                sum += number;
-            }
+
+        for (int i = 0; i < numbers.length; i++) {
+            if(i % 2 != 0){
+                sum+= numbers[i];
+        }
         }
 
-        System.out.println("La somma di tutti i numeri pari è " + sum);
+        System.out.println("La somma di tutti i numeri agli indici dispari è " + sum);
 
     }
 }
