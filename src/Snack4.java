@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Snack4 {
     public static void main(String[] args) {
         /*
@@ -9,10 +11,11 @@ public class Snack4 {
 
         int[] numeri1 = new int[5];
         int[] numeri2 = new int[10];
-        int min = 1;
-        int max = 15;
+
+        Random rnd = new Random();
+
         for (int i = 0; i < numeri2.length - numeri1.length; i++) {
-            System.out.println((int)Math.ceil(Math.random() * (max - min) + min));
+            System.out.println(rnd.nextInt(1, 15));
         }
     }
 }

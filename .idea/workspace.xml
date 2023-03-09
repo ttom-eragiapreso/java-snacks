@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65161014-e977-4ad0-b0bf-6c0757beb56b" name="Changes" comment="snack 4 finished">
+    <list default="true" id="65161014-e977-4ad0-b0bf-6c0757beb56b" name="Changes" comment="snack 4 using Random">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snack4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678371270707</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="snack 4 using Random">
+      <created>1678372937055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678372937055</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +111,7 @@
     <MESSAGE value="snack 3 finished" />
     <MESSAGE value="aggiunto scan.close" />
     <MESSAGE value="snack 4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="snack 4 finished" />
+    <MESSAGE value="snack 4 using Random" />
+    <option name="LAST_COMMIT_MESSAGE" value="snack 4 using Random" />
   </component>
 </project>
